@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Gotu&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: cyan;
+  
+}
+nav{
+ justify-content: space-evenly;
+ display: flex;
+    
+}
+.logo{
+    padding: 10px;
+    font-family: 'DM Serif Display', serif;
+}
+ul{
+   display: flex;
+   align-items: center;
+}
+
+li{
+    font-family: 'DM Serif Display', serif;
+    padding: 10px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
